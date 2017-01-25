@@ -1,4 +1,4 @@
-package org.putri.geofani;
+package org.putri.geofenceexample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

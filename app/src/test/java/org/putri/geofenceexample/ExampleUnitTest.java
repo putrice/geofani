@@ -1,4 +1,4 @@
-package org.putri.geofani;
+package org.putri.geofenceexample;
 
 import org.junit.Test;
 
